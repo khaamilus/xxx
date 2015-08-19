@@ -14,6 +14,7 @@
 
 <body>
 	<h1>nagłówek strony</h1>
+	<h2>podtytuł</h2>
 </body>
 
 </html>
